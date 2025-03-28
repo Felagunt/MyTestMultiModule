@@ -1,6 +1,6 @@
 package com.example.search.data.dto
 
-data class Data(
+data class DataDto(
     val artist_display: String,
     val date_end: Int,
     val date_start: Int,
